@@ -2,9 +2,11 @@
 *.o
 *.o.*
 *.a
+*.d
 *.s
 *.ko
 *.so
+*.mk
 *.so.dbg
 *.mod.c
 *.i
